@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background-image: linear-gradient(100deg, #00c6a7, #1e4d92);
+  background-size: cover;
+}
+.about h1{
+  text-align: center;
+  border: 15px solid;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border-width: medium;
+}
+.ware h1{
+  text-align: center;
+  border: 15px solid;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 10px;
+  border-width: medium;
+}
